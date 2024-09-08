@@ -14,12 +14,12 @@
   "keywords": [
     "HotelBookingSystem_MERN"
   ],
-  "author": "ShrijitMore",
+  "author": "Abhishek khadse",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shrijitmore/HotelBookingManagement/issues"
+    "url": "https://github.com/abhishek4955/Hotel-Booking-Management/issues"
   },
-  "homepage": "https://github.com/shrijitmore/HotelBookingManagement#readme",
+  "homepage": "https://github.com/abhishek4955/Hotel-Booking-Management#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
